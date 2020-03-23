@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet5ConsoleApp", "Dotnet5ConsoleApp\Dotnet5ConsoleApp.csproj", "{B1FA920B-B610-49A2-B4E7-2B94A511F9D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet5XUnitTestProject", "DotNet5XUnitTestProject\DotNet5XUnitTestProject.csproj", "{C907F534-8538-4D94-B803-AFA494CAA515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1FA920B-B610-49A2-B4E7-2B94A511F9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1FA920B-B610-49A2-B4E7-2B94A511F9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1FA920B-B610-49A2-B4E7-2B94A511F9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1FA920B-B610-49A2-B4E7-2B94A511F9D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C907F534-8538-4D94-B803-AFA494CAA515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C907F534-8538-4D94-B803-AFA494CAA515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C907F534-8538-4D94-B803-AFA494CAA515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C907F534-8538-4D94-B803-AFA494CAA515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {043E2D39-E381-4ECC-8CF1-EF85D9F9F57C}
+	EndGlobalSection
+EndGlobal
